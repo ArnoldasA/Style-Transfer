@@ -1,10 +1,4 @@
-/*
-Data and machine learning for artistic practice
-Week 7
 
-Style transfer on a webcam
-
-*/
 
 let style1,
     style2,
